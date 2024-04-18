@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|c:\\users\\mahmoud\\source\\repos\\parking lot\\parking lot\\sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\sign_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|c:\\users\\mahmoud\\source\\repos\\parking lot\\parking lot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\log_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\parking lot\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14454EF2-AEDC-469F-90C1-20DC80C7D0A4}|Parking lot\\Parking lot.csproj|solutionrelative:parking lot\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign_in.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\sign_in.cs",
+              "RelativeDocumentMoniker": "Parking lot\\sign_in.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\sign_in.cs [Design]",
+              "RelativeToolTip": "Parking lot\\sign_in.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T05:23:37.755Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Menu.cs",
+              "RelativeDocumentMoniker": "Parking lot\\Menu.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Menu.cs",
+              "RelativeToolTip": "Parking lot\\Menu.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAvwFcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T04:31:20.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Menu.cs",
+              "RelativeDocumentMoniker": "Parking lot\\Menu.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Menu.cs [Design]",
+              "RelativeToolTip": "Parking lot\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:34:52.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log_in.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\log_in.cs",
+              "RelativeDocumentMoniker": "Parking lot\\log_in.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\log_in.cs [Design]",
+              "RelativeToolTip": "Parking lot\\log_in.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:42:31.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\list.cs",
+              "RelativeDocumentMoniker": "Parking lot\\list.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\list.cs [Design]",
+              "RelativeToolTip": "Parking lot\\list.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:36:07.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Add.cs",
+              "RelativeDocumentMoniker": "Parking lot\\Add.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Add.cs",
+              "RelativeToolTip": "Parking lot\\Add.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA1wCIAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:35:34.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Add.cs",
+              "RelativeDocumentMoniker": "Parking lot\\Add.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\Add.cs [Design]",
+              "RelativeToolTip": "Parking lot\\Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:30:48.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "list.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\list.cs",
+              "RelativeDocumentMoniker": "Parking lot\\list.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\list.cs",
+              "RelativeToolTip": "Parking lot\\list.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:37:31.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "log_in.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\log_in.cs",
+              "RelativeDocumentMoniker": "Parking lot\\log_in.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\source\\repos\\Parking lot\\Parking lot\\log_in.cs",
+              "RelativeToolTip": "Parking lot\\log_in.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T10:42:34.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
