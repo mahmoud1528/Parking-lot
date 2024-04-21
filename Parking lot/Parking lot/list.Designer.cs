@@ -105,9 +105,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(145, 89);
             label2.Name = "label2";
-            label2.Size = new Size(99, 15);
+            label2.Size = new Size(97, 15);
             label2.TabIndex = 5;
-            label2.Text = "delete first record";
+            label2.Text = "delete last record";
             label2.Visible = false;
             // 
             // button4

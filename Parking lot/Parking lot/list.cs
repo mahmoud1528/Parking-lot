@@ -51,36 +51,35 @@ namespace Parking_lot
             button2.Visible = true;
             
         }
-        private void button3_Click(object sender, EventArgs e)//ok
+        private void button3_Click(object sender, EventArgs e)//ok for delete
         {
-            FileStream file = new FileStream("customer_filter.txt", FileMode.OpenOrCreate,FileAccess.ReadWrite);
-            StreamReader sr = new StreamReader(file);
-            StreamWriter sw = new StreamWriter(file);
-            file.Seek(0, SeekOrigin.Begin);
-          
-            string record;
-            string[] field;
-            int count = 0;
+            
+            string searchText = textBox1.Text + textBox2.Text;
+            string path = "customer_filter.txt";
 
-            while ((record = sr.ReadLine()) != null)
+            string[] record = File.ReadAllLines(path);
+           
+            int last = -1; 
+            for (int i = 0; i < record.Length; i++)
             {
-                field = record.Split('|');
-                if (field[0] == textBox1.Text + textBox2.Text)
+                string field = record[i];
+                if (field.StartsWith(searchText))
                 {
-                    file.Seek(count, SeekOrigin.Begin);
-                    sw.Write('*');
-                    
-                    MessageBox.Show("record deleted");
-                    
-                    break;
+                    last = i;
                 }
-
-                count += record.Length + 2;
-
             }
-            sw.Close();
-            sr.Close();
-            file.Close();
+
+            if (last != -1)
+            {
+                record[last] = "*" + record[last]; 
+                File.WriteAllLines(path, record);
+                MessageBox.Show("Record deleted");
+            }
+            else
+            {
+                MessageBox.Show("Record not found");
+            }
+           
 
         }
 
